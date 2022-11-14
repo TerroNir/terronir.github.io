@@ -1,3 +1,3 @@
 # TerroNir
 
-[Guarda il nostro menu'](../blob/master/TerroNirMenu.pdf)
+[Guarda il nostro menu'](blob/main/TerroNirMenu.pdf)
